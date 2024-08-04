@@ -1,0 +1,20 @@
+{
+  "name": "note-taking-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YardenSeriLevi/Note-taking-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YardenSeriLevi/Note-taking-project/issues"
+  },
+  "homepage": "https://github.com/YardenSeriLevi/Note-taking-project#readme"
+}

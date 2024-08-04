@@ -73,6 +73,7 @@ const AddNote = ({ noteId, existingNote }) => {
             placeholder="Category"
           />
         </Form.Group>
+        <br></br>
         <Button variant="primary" onClick={handleAddNote}>
           {noteId ? 'Save Note' : 'Add Note'}
         </Button>
